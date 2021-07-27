@@ -1,0 +1,30 @@
+{
+    "news":[
+        {
+            "id":1,
+            "title":"Khua",
+            "description":"vui tinh",
+            "category":"sports"
+        },
+        {
+            "id":2,
+            "title":"Luong",
+            "description":"black salary",
+            "category":"politics"
+        },
+        {
+            "id":3,
+            "title":"Da Ni",
+            "description":"he huoc",
+            "category":"sports"
+        }
+    ],
+    "products":[
+        {
+            "id":1,
+            "title":"Banh tai heo",
+            "description":"banh rat ngot",
+            "category":"candy"
+        }
+    ]
+}
